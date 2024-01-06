@@ -1,0 +1,95 @@
+body {
+    background-color: yellow;
+    font-family: 'Figtree', sans-serif;
+}
+
+table {
+    border: 2px solid black;
+    border-radius: 12px;
+    width: 380px;
+    height: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    box-shadow: 8px 10px;
+}
+
+#um {
+    width: 100px;
+    height: 80px;
+}
+
+
+#td1 {
+    width: 100px;
+    height: 100px;
+    vertical-align: text-top;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#td1 img {
+    border: 1px solid white;
+    border-radius: 12px;
+}
+
+#dois {
+    width: 350px;
+    height: 1px;
+}
+
+#td2 {
+    vertical-align: text-top;
+
+}
+    
+
+#td2 p#um {
+    text-align: justify;
+    padding-left: 8px;
+    padding-top: 4px;
+    background-color: yellow;
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 70px;
+    height: 25px;
+    font-size: 12px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#td2 p#dois {
+    text-align: left;
+    padding-left: 22px;
+    font-size: 13px;
+    color: black;
+
+}
+
+#td2 h2#tres {
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 22px;
+
+    color: black;
+
+}
+
+#td2 p#quatro {
+    text-align: left;
+    padding-left: 23px;
+    font-size: 16px;
+    color: gray;
+}
+
+
+#td3 img {
+    width:32px;
+    height: 32px;
+    padding-left: 20px;
+    padding-right: 10px;
+    vertical-align:middle;
+    font-size: medium;
+}
+
